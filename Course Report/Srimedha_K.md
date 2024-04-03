@@ -24,6 +24,5 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
 | 
-|Mini Project : Adders, Multiplexers,encoders, Scan Flipflop, Shift registers, Padcell, FSM, Vending machine, Memories    |  https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Srimedha 
-| 
-|Final Project:  Implementation of JTAG Protocol       | https://github.com/SrimedhaK/G13_VLSI/tree/main/Final%20Capstone%20Project/Srimedha
+|Mini Project : Adders, Multiplexers,encoders, Scan Flipflop, Shift registers, Padcell, FSM, Vending machine, Memories    |  [Click Here](https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Srimedha)  | 
+|Final Project:  Implementation of JTAG Protocol       | [Click Here](https://github.com/SrimedhaK/G13_VLSI/tree/main/Final%20Capstone%20Project/Srimedha)|
