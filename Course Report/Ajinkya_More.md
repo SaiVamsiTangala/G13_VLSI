@@ -24,5 +24,4 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                                                                         | Link                                                                                            |
 |-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | Mini Project: Memories, FSM, Adders, Multiplexer, Encoder, Pad cell, Scan flip-flop |[Click Link](https://github.com/AjinkyaMore07/G13_VLSI/tree/main/Mini%20Projects/Ajinkya%20More)           |
-
-| Final Project: IEEE Standard JTAG Protocol Implementation                           |[Click Link](https://github.com/AjinkyaMore07/G13_VLSI/tree/main/Final%20Capstone%20Project/Ajinkya%20More)|
+| Final Project: IEEE Standard JTAG Protocol Implementation                           |[Click Link](https://github.com/AjinkyaMore07/G13_VLSI/tree/main/Final%20Capstone%20Project/Ajinkya%20More) |
