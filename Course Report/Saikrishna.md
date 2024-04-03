@@ -23,4 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                                 | Link                                     |
 |--------------------------------------------|--------------------------------------|
+| Mini Projects: MUX2x1,ENCODER_8TO3, DFF,  HALFADDER, FULLADDER, 16_BIT_FULLADDER,  SHIFTREG, SDFF, PBIDIR, FSM, ODD_EVEN_PARITY GENERATOR, VENDING_FSM, SPR, DPR, FIFO | [click here] (https://github.com/Krish5565/G13_VLSI/tree/main/Mini%20Projects)|
 | Final Project: IEEE Standard Test Access Port and Boundary-Scan Architecture - JTAG(1149.1Std)  | [click here](https://github.com/Krish5565/G13_VLSI/tree/main/Final%20Capstone%20Project )| 
