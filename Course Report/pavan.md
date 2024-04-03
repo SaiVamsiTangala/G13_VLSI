@@ -15,7 +15,6 @@
 
 ## Qualifications: Pursuing 4th year B.E
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -23,6 +22,6 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Memories,FSM,Scan flip-flop,Adders,MUXes     | [Click Here] (https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Pavan%20Kumar/Assignments)
+| Mini Projects: Memories,FSM,Scan flip-flop,Adders,Multiplexer,Encoder     | [Click Here] (https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Pavan%20Kumar/Assignments)
                          |
 | Final Project: Implementation of IEEE Standard JTAG protocol     | [Click Here] (https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Pavan%20Kumar)                        |
