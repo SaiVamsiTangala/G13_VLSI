@@ -6,21 +6,22 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> Course Name </h2>
+  <h2>VLSI-Frontend</h2>
 </div>
 
 # Course Report
 
 ## Name: Ajinkya More
 
-## Qualifications: BTech ECE, 4th Year, Walchand Institute of Technology , Solapur
+## Qualifications: Pursuing Btech 4th Year , Walchand Institute of Technology , Solapur .
 
-Welcome to the course report for the VLSI Frontend! This README document provides an overview of the course, final project.
+Welcome to the course report for the VLSI Frontend Designing! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
 Below is a table summarizing the mini projects and final project completed during the course:
 
-| Description                               | Link                                    |
-|-------------------------------------------|-----------------------------------------|
-| Final Project: Implementation of JTAG Protocol     | https://github.com/AjinkyaMore07/G13_VLSI/tree/main/Final%20Capstone%20Project/Ajinkya%20More |
+| Description                                                                         | Link                                                                                            |
+|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Mini Project: Memories, FSM, Adders, Multiplexer, Encoder, Pad cell, Scan flip-flop |[Click Link](https://github.com/AjinkyaMore07/G13_VLSI/tree/main/Final%20Capstone%20Project/Ajinkya%20More)           |
+| Final Project: IEEE Standard JTAG Protocol Implementation                           |[Click Link](https://github.com/AjinkyaMore07/G13_VLSI/tree/main/Mini%20Projects/Ajinkya%20More)|
