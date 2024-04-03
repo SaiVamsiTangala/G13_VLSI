@@ -1,0 +1,27 @@
+<!-- PROJECT LOGO -->
+<br />
+
+<div align="center">
+   <img src='https://user-images.githubusercontent.com/73131499/166115643-d3187f47-d38f-41b2-ae42-5ecbbc60de14.png' />
+
+
+<h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
+  <h2>VLSI Desigining - Front End</h2>
+</div>
+ 
+# Course Report
+
+## Name: HRUDAY KUMAR REDDY VEDUKALA
+
+## Qualifications: B-tech Final year - ECE, Ananthalakshmi institute of technology and sciences, ANANTAPUR
+
+Welcome to the course report for the VLSI Desigining - Front End! This README document provides an overview of the course, its mini projects and final project.
+
+### Mini Projects and Final Project
+
+Below is a table summarizing the mini projects and final project completed during the course:
+
+| Description                               | Link                                    |
+|-------------------------------------------|-----------------------------------------|
+| Mini Projects: MUX2x1,ENCODER_8TO3, DFF,  HALFADDER, FULLADDER, 16_BIT_FULLADDER,  SHIFTREG, SDFF, PBIDIR, FSM, ODD_EVEN_PARITY GENERATOR, VENDING_FSM, SPR, DPR, FIFO     |[click here]   (https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Hruday%20Kumar)                     |
+| Final Project: IEEE Standard Test Access Port and Boundary-Scan Architecture - JTAG(1149.1Std)     | [click here] (https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Hruday%20Kumar)                         |
