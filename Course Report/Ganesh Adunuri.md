@@ -6,12 +6,12 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2>VLSI Designing/h2>
+  <h2>VLSI Designing</h2>
 </div>
 
 # Course Report
 
-## Name: ADUNURI GANESH
+## Name: GANESH ADUNURI
 
 ## Qualifications: 4TH YEAR BTECH
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Project: [Memories, FSM, Adders, Multiplexer, Encoder, Pad cell, Scan flip-flop]      |[Click here](https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Ganesh%20Adunuri)          |
-| Final Project: [IEEE Standard JTAG Protocol Implementation]                                |[Click here](https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Ganesh%20Adnuri)|
+| Mini Projects: [Memories, FSM, Adders, Multiplexer, Encoder, Pad cell, Scan flip-flop]     | [Click here](https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Ganesh%20Adunuri)                                   |
+| Final Project: [IEEE Standard JTAG Protocol Implementation]                                | [Click here] (https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Ganesh%20Adnuri)                        |
