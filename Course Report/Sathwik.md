@@ -23,7 +23,7 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                                                      |
 |-------------------------------------------|---------------------------------------------------------------------------|
-|Mini Project:MUX2x1,ENCODER_8TO3, DFF,  HALFADDER, FULLADDER, 16_BIT_FULLADDER,  SHIFTREG, SDFF, PBIDIR, FSM, ODD_EVEN_PARITY GENERATOR, VENDING_FSM, SPR, DPR, FIFO [click here] |(https://github.com/BSathwik25/G13_VLSI/tree/main/Mini%20Projects)|
-| Final Project:IEEE Standard Test Access Port & Boundary-Scan Architecture-JTAG(1149.1Std) [click here]|(https://github.com/BSathwik25/G13_VLSI/tree/main/Final%20Capstone%20Project)|
+|Mini Project:MUX2x1,ENCODER_8TO3, DFF,  HALFADDER, FULLADDER, 16_BIT_FULLADDER,  SHIFTREG, SDFF, PBIDIR, FSM, ODD_EVEN_PARITY GENERATOR, VENDING_FSM, SPR, DPR, FIFO [click here] |(https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Sathwik)|
+| Final Project:IEEE Standard Test Access Port & Boundary-Scan Architecture-JTAG(1149.1Std) [click here]|(https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Sathwik)|
          
                                         
