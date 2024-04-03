@@ -15,6 +15,7 @@
 
 ## Qualifications: Pursuing 4th year B.E
 
+Welcome to the course report for the VLSI Designing! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
