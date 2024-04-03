@@ -24,4 +24,4 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects: [Memories, FSM, Adders, Multiplexer, Encoder, Pad cell, Scan flip-flop]     | [Click here](https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Ganesh%20Adunuri)                                   |
-| Final Project: [IEEE Standard JTAG Protocol Implementation]                                | [Click here] (https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Ganesh%20Adnuri)                        |
+| Final Project: [IEEE Standard JTAG Protocol Implementation]                                | [Click here](https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Ganesh%20Adnuri)                        |
