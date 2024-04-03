@@ -6,16 +6,16 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2>Course Name</h2>
+  <h2>VLSI FRONTEND</h2>
 </div>
 
 # Course Report
 
-## Name: [Your Name]
+## Name: Madishetty Vyshnavi
 
-## Qualifications: [Your Qualifications]
+## Qualifications: B.Tech , ECE , Vaagdevi College Of Engineering 
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the VLSI FRONTEND! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
-| Final Project: [Project Description]     | [Project Link]                         |
+| Mini Projects: Mini projects              | https://github.com/vyshnavimadishetti/G13_VLSI/tree/main/Assignments/Vyshnavi%20Madishetti |
+| Final Project: Implementation of JTAG     |  https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Vyshnavi%20Madishetti |
