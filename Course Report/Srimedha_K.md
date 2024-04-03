@@ -24,5 +24,4 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
 | 
-| Final Project: 
-      Implementation of JTAG Protocol       |https://github.com/SrimedhaK/G13_VLSI/tree/main/Final%20Capstone%20Project/Srimedha
+| Final Project:  Implementation of JTAG Protocol       |https://github.com/SrimedhaK/G13_VLSI/tree/main/Final%20Capstone%20Project/Srimedha
