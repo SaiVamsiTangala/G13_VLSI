@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Mini projects              | https://github.com/vyshnavimadishetti/G13_VLSI/tree/main/Assignments/Vyshnavi%20Madishetti |
+| Mini Projects: Mini projects              | https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Vyshnavi%20Madishetti |
 | Final Project: Implementation of JTAG     |  https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Vyshnavi%20Madishetti |
