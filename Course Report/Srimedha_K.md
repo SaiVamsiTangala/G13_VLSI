@@ -6,7 +6,7 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2>VLSI Designing- Frontend</h2>
+  <h2>VLSI Designing Frontend</h2>
 </div>
 
 # Course Report
@@ -15,7 +15,7 @@
 
 ## Qualifications: BTech, ECE, Matrusri Engineering college, Hyderabad, Telangana 
 
-Welcome to the course report for the VLSI Designing- Frontend ! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the VLSI Designing Frontend! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
