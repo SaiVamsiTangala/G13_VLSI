@@ -23,6 +23,6 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Adder_16bit,Coin_toss_FSM,D_Flipflop,Dualport_RAM,Encoder_8x3,EvenOdd_counter,FIFO,FullAdder,HalfAdder,Pad_cell,Parity_generator,SDFF,SP_RAM,Scan_register,Vending_machine,Mux_8x1]     | [https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Anusha]                         |
+| Mini Projects: [Adder_16bit,Coin_toss_FSM,D_Flipflop,Dualport_RAM,Encoder_8x3,EvenOdd_counter,FIFO,FullAdder,HalfAdder,Pad_cell,Parity_generator,SDFF,SP_RAM,Scan_register,Vending_machine,Mux_8x1]     | [click here](https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Anusha)                         |
 
-| Final Project: [IEEE Standard Test Access Port and Boundary-Scan Architecture]     | [https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Anusha]                         |
+| Final Project: [IEEE Standard Test Access Port and Boundary-Scan Architecture]     | [click here](https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Anusha)                         |
