@@ -24,5 +24,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects:    FSM,Memories,multiplexer,Encoder,Flipflops,padcell | https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Vaishnavi%20Cheguri |
-| Final Project: Implementation of JTAG Protocol|  https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Vaishnavi%20Cheguri/TOP_module_JTAG |
+| Mini Projects:    FSM,Memories,multiplexer,Encoder,Flipflops,padcell | [Click here](https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Vaishnavi%20Cheguri) |
+| Final Project: Implementation of JTAG Protocol|  [Click Here](https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Vaishnavi%20Cheguri/TOP_module_JTAG) |
