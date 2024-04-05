@@ -23,8 +23,6 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                                                                         | Link                                    
 |-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| Mini Projects: MEMORIES,FSM,ADDERS,MULTIPLEXER,ENCODER,PAD CELL,SCAN FLIP-FLOP      | https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Abeed%20Ahamad/assignments
-
-                         
-| Final Project: IEEE_STANDARD_TEST_ACCESS_PORT_AND_BOUNDARY_SCAN_ARCHITECTURE        | https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Abeed%20Ahamad                  |
+| Mini Projects: MEMORIES,FSM,ADDERS,MULTIPLEXER,ENCODER,PAD CELL,SCAN FLIP-FLOP      | [Click Here](https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Abeed%20Ahamad/assignments)|                        
+| Final Project: IEEE_STANDARD_TEST_ACCESS_PORT_AND_BOUNDARY_SCAN_ARCHITECTURE        | [Click here](https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Abeed%20Ahama)                 |
 
