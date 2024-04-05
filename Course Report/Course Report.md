@@ -11,11 +11,11 @@
 
 # Course Report
 
-## Name: [B SANDEEP]
+## Name: [Your Name]
 
-## Qualifications: [B.TECH]
+## Qualifications: [Your Qualification]
 
-Welcome to the course report for the [VLSI FRONT END]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [full adder,half adder,encoder,decoder,mux,demux,evenoddcoder,fsm,vending mession]     | [https://github.com/sure-trust/G13_VLSI/tree/e1053757b9f6fb5c98f9a747b35bba82212f30ce/Mini%20Projects/Sandeep]                         |
-| Final Project: [IEEE Standard test access port and boundary scan architecture]     | [https://github.com/sure-trust/G13_VLSI/tree/e1053757b9f6fb5c98f9a747b35bba82212f30ce/Final%20Capstone%20Project/Sandeep]                         |
+| Mini Projects: [Project Description]     | [Project Link]                         |
+| Final Project: [Project Description]      |[Project Link]                           |
