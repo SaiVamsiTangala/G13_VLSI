@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                                                                         | Link                                                                                            |
 |-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| Mini Project: Adder,Memories, FSM, Adders, Multiplexer, Encoder, Pad cell, Scan flip-flop |(https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Sai%20Vamsi)
-| Final Project: IEEE Standard JTAG Protocol Implementation                           |(https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Sai%20Vamsi)|
+| Mini Project: Adder,Memories, FSM, Adders, Multiplexer, Encoder, Pad cell, Scan flip-flop |[Click here](https://github.com/sure-trust/G13_VLSI/tree/main/Mini%20Projects/Sai%20Vamsi)|
+| Final Project: IEEE Standard JTAG Protocol Implementation                           |[Click Here](https://github.com/sure-trust/G13_VLSI/tree/main/Final%20Capstone%20Project/Sai%20Vamsi)|
